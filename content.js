@@ -2,9 +2,9 @@
 // en = English; zh = Chinese. No unpublished research details.
 window.siteContent = {
   "en": {
-    "name": "[Kewen Bu]",
-    "affiliation": "[Simon Fraser University]",
-    "role": "[PhD student]",
+    "name": "Kewen Bu",
+    "affiliation": "Simon Fraser University",
+    "role": "PhD student",
     "hero-copy": "[A short introduction]",
     "interests": "[Broad research interests]",
     "location": "[Location]",
@@ -16,9 +16,9 @@ window.siteContent = {
     "contact": "[Academic email and contact details]"
   },
   "zh": {
-    "name": "[卜柯文]",
-    "affiliation": "[西蒙菲莎大学]",
-    "role": "[博士生]",
+    "name": "卜柯文",
+    "affiliation": "西蒙菲莎大学",
+    "role": "博士生",
     "hero-copy": "[简短个人介绍]",
     "interests": "[宽泛研究兴趣]",
     "location": "[所在地]",
