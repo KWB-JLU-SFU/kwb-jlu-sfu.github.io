@@ -9,7 +9,7 @@ window.siteContent = {
     "interests": "Inverse problems, spectral theory, and numerical methods for PDEs.",
     "location": "Burnaby, BC, Canada",
     "about": "I am a PhD student in Mathematics at Simon Fraser University, supervised by Nilima Nigam. Before joining SFU, I completed my master’s degree in Computational Mathematics at Jilin University under the supervision of Kai Zhang. I also completed my undergraduate studies in Mathematics at Jilin University.",
-    "education": "[Education and experience]",
+    "education": "2025-present: PhD student in Mathematics, Simon Fraser University \n 2022-2025: Master's in Computational Mathematics, Jilin University \n 2015-2019: Undergraduate studies in Mathematics, Jilin University",
     "publications": "[Add published papers and public preprints here]",
     "projects": "[Add public project descriptions here]",
     "cv": "[Public CV link to be added]",
