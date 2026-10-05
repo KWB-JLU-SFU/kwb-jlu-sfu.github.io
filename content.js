@@ -10,7 +10,7 @@ window.siteContent = {
     "location": "Burnaby, BC, Canada",
     "about": "I am a PhD student in Mathematics at Simon Fraser University, supervised by Nilima Nigam. Before joining SFU, I completed my master’s degree in Computational Mathematics at Jilin University under the supervision of Kai Zhang. I also completed my undergraduate studies in Mathematics at Jilin University.",
     "education": "2025-present: PhD student in Mathematics, Simon Fraser University \n 2022-2025: Master's in Computational Mathematics, Jilin University \n 2015-2019: Undergraduate studies in Mathematics, Jilin University",
-    "publications": "[Add published papers and public preprints here]",
+    "publications": "Kewen Bu, Youjun Deng, Yan Jiang, and Kai Zhang.\nInverse spectral problem with low regularity refractive index.\nInverse Problems and Imaging, 2026 (Early Access).\nDOI: 10.3934/ipi.2026059",
     "projects": "[Add public project descriptions here]",
     "cv": "[Public CV link to be added]",
     "contact": "[Academic email and contact details]"
@@ -24,7 +24,7 @@ window.siteContent = {
     "location": "加拿大，不列颠哥伦比亚省，本拿比",
     "about": "我目前在西蒙菲莎大学攻读数学博士，师从 Nilima Nigam。此前，我在吉林大学师从张凯老师，获得计算数学硕士学位，本科也就读于吉林大学数学专业。",
     "education": "2025–至今：西蒙菲莎大学，数学博士在读\n2022–2025：吉林大学，计算数学硕士\n2015–2019：吉林大学，数学本科",
-    "publications": "[在这里填写已发表论文和公开预印本]",
+    "publications": "Kewen Bu, Youjun Deng, Yan Jiang, and Kai Zhang.\nInverse spectral problem with low regularity refractive index.\nInverse Problems and Imaging, 2026 (Early Access).\nDOI: 10.3934/ipi.2026059",
     "projects": "[在这里填写可公开的项目介绍]",
     "cv": "[待添加公开版 CV 链接]",
     "contact": "[学术邮箱与联系方式]"
