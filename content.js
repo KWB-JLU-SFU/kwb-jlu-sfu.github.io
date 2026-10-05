@@ -19,7 +19,7 @@ window.siteContent = {
     "name": "卜柯文",
     "affiliation": "西蒙菲莎大学",
     "role": "博士生",
-    "hero-copy": "应用是爷的工作，理论也是爷的爱好。",
+    "hero-copy": "应用是咱的工作，理论也是咱的爱好。",
     "interests": "[宽泛研究兴趣]",
     "location": "[所在地]",
     "about": "[在这里填写个人介绍]",
